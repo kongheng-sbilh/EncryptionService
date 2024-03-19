@@ -12,7 +12,7 @@
 - Click on 'try it out'
 - Enter the text you want to encrypt in the 'Request body'
 - Click on 'execute'
-- You text will be encrypted.
+- Your text will be encrypted.
 
   ![image](https://github.com/kongheng-sbilh/EncryptionService/assets/162537849/99e4f098-203f-4064-b1d4-8d8f176b2952)
 
@@ -23,6 +23,6 @@
 - Click on 'try it out'
 - Enter the text you want to decrypt in the 'Request body'
 - Click on 'execute'
-- You text will be decrypted.
+- Your text will be decrypted.
 
   ![image](https://github.com/kongheng-sbilh/EncryptionService/assets/162537849/72238a53-0e94-4f42-8da0-5b726c283dfb)
